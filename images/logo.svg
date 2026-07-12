@@ -1,0 +1,14 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 120 92" role="img" aria-label="Pink bow logo">
+  <!-- tails -->
+  <path d="M60 52 L36 88 Q34 91 38 90 L52 86 L60 62 Z" fill="#e87ea1"/>
+  <path d="M60 52 L84 88 Q86 91 82 90 L68 86 L60 62 Z" fill="#e87ea1"/>
+  <!-- left loop -->
+  <path d="M57 46 C 42 18, 10 16, 8 36 C 6 56, 40 60, 57 50 Z" fill="#d64580"/>
+  <path d="M54 45 C 42 27, 20 24, 18 37 C 17 50, 40 53, 54 47 Z" fill="#e87ea1"/>
+  <!-- right loop -->
+  <path d="M63 46 C 78 18, 110 16, 112 36 C 114 56, 80 60, 63 50 Z" fill="#d64580"/>
+  <path d="M66 45 C 78 27, 100 24, 102 37 C 103 50, 80 53, 66 47 Z" fill="#e87ea1"/>
+  <!-- knot -->
+  <rect x="50" y="38" width="20" height="18" rx="7" fill="#b13268"/>
+  <circle cx="56" cy="44" r="2.2" fill="#f7d6e0" opacity="0.7"/>
+</svg>
