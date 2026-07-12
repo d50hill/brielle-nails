@@ -263,6 +263,23 @@ main { max-width: 1080px; margin: 0 auto; padding: 0 1rem; }
   font-size: 0.95rem;
 }
 
+.footer-social { margin-top: 0.6rem; }
+
+.insta-link {
+  display: inline-flex;
+  align-items: center;
+  gap: 0.45rem;
+  font-weight: 600;
+  color: var(--rose-deep);
+  text-decoration: none;
+  padding: 0.35rem 0.9rem;
+  border: 2px solid var(--pink-soft);
+  border-radius: 999px;
+  background: var(--white);
+}
+
+.insta-link:hover { border-color: var(--rose); }
+
 /* ---------- Desktop ---------- */
 
 @media (min-width: 720px) {

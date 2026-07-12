@@ -4,6 +4,11 @@
 // Leave it empty to keep the "text to book" fallback.
 const BOOKING_URL = "";
 
+// Instagram: paste her profile URL between the quotes below
+// (e.g. "https://www.instagram.com/nailsbybrielle") and every Instagram
+// link on the site will point to it automatically.
+const INSTAGRAM_URL = "";
+
 document.addEventListener("DOMContentLoaded", () => {
   const toggle = document.querySelector(".nav-toggle");
   const nav = document.querySelector(".site-nav");
@@ -17,6 +22,12 @@ document.addEventListener("DOMContentLoaded", () => {
       a.href = BOOKING_URL;
       a.target = "_blank";
       a.rel = "noopener";
+    });
+  }
+
+  if (INSTAGRAM_URL) {
+    document.querySelectorAll(".insta-link").forEach((a) => {
+      a.href = INSTAGRAM_URL;
     });
   }
 });
