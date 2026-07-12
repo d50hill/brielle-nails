@@ -42,7 +42,8 @@ Until this is done, the site tells clients to text you to book.
 
 ## Later / optional
 
-- [ ] Logo and brand colors, if you ever have them made (bow + pink/white
-      placeholder is live now)
+- [ ] Logo: **Kenna will draw you a custom bow logo if you like!** Just say
+      the word (a pink bow + pink/white placeholder is live now). Or send
+      your own branding whenever you have it.
 - [ ] A domain name you'd like (e.g. nailsbybrielle.com, ~$12/yr) when
       you're ready to move off the free web address
